@@ -1,0 +1,4197 @@
+[
+    {
+        "url": "https://docs.phidata.com/",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/templates/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistant",
+        "title": "Assistant - Phidata",
+        "local_path": "reference/blocks/assistant"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/could-not-connect-to-docker",
+        "title": "Could Not Connect To Docker - Phidata",
+        "local_path": "faq/could-not-connect-to-docker"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/basics",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/cookbook",
+        "title": "Cookbook - Phidata",
+        "local_path": "examples/cookbook"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/install",
+        "title": "Install & Upgrade - Phidata",
+        "local_path": "how-to/install"
+    },
+    {
+        "url": "https://docs.phidata.com/#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "assistants/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": ""
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/settings",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/workspace/settings"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/resources",
+        "title": "Workspace Resources - Phidata",
+        "local_path": "templates/workspace/resources"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/apps/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/examples",
+        "title": "Examples - Phidata",
+        "local_path": "templates/apps/examples"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/features",
+        "title": "Features - Phidata",
+        "local_path": "templates/apps/features"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/resources/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/introduction#available-templates",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistant#example",
+        "title": "Assistant - Phidata",
+        "local_path": "reference/blocks/assistant"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistant#assistant-params",
+        "title": "Assistant - Phidata",
+        "local_path": "reference/blocks/assistant"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistants/python",
+        "title": "PythonAssistant - Phidata",
+        "local_path": "reference/blocks/assistants/python"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/could-not-connect-to-docker#quick-fix",
+        "title": "Could Not Connect To Docker - Phidata",
+        "local_path": "faq/could-not-connect-to-docker"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/could-not-connect-to-docker#full-details",
+        "title": "Could Not Connect To Docker - Phidata",
+        "local_path": "faq/could-not-connect-to-docker"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/could-not-connect-to-docker#more-info",
+        "title": "Could Not Connect To Docker - Phidata",
+        "local_path": "faq/could-not-connect-to-docker"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/introduction#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#install-and-setup",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#assistant-with-tools",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#example-research-assistant",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#assistant-with-knowledge",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#run-pgvector",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#rag-assistant",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#autonomous-assistant",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#assistant-with-memory-knowledge-and-tools",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/basics#next",
+        "title": "Basics - Phidata",
+        "local_path": "basics"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "tools/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "knowledge/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/storage/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "storage/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/cookbook#clone-the-cookbook",
+        "title": "Cookbook - Phidata",
+        "local_path": "examples/cookbook"
+    },
+    {
+        "url": "https://docs.phidata.com/storage/singlestore",
+        "title": "SingleStore Assistant Storage - Phidata",
+        "local_path": "storage/singlestore"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/basic",
+        "title": "Basic Assistant - Phidata",
+        "local_path": "examples/assistants/basic"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/install#install-phidata",
+        "title": "Install & Upgrade - Phidata",
+        "local_path": "how-to/install"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/install#upgrade-phidata",
+        "title": "Install & Upgrade - Phidata",
+        "local_path": "how-to/install"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/together",
+        "title": "Together - Phidata",
+        "local_path": "examples/llms/together"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/instructions",
+        "title": "Instructions (Prompts) - Phidata",
+        "local_path": "assistants/instructions"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/tools",
+        "title": "Tools - Phidata",
+        "local_path": "assistants/tools"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/knowledge",
+        "title": "Knowledge - Phidata",
+        "local_path": "assistants/knowledge"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/memory",
+        "title": "Memory - Phidata",
+        "local_path": "assistants/memory"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/storage",
+        "title": "Storage - Phidata",
+        "local_path": "assistants/storage"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/structured-output",
+        "title": "Structured Output - Phidata",
+        "local_path": "assistants/structured-output"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/teams",
+        "title": "Teams - Phidata",
+        "local_path": "assistants/teams"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/introduction#return-response-as-a-variable",
+        "title": "Introduction - Phidata",
+        "local_path": "assistants/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/introduction#run-the-assistant-as-a-cli-app",
+        "title": "Introduction - Phidata",
+        "local_path": "assistants/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/introduction#manually-set-the-system-prompt",
+        "title": "Introduction - Phidata",
+        "local_path": "assistants/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#create-new-workspace",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#setup-existing-workspace",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#start-workspace",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#stop-workspace",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#patch-workspace",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#restart-workspace",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#command-options",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#environment-env",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#infra-infra",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#group-group",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#name-name",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#type-type",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#dry-run-dry-run",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#show-debug-logs-debug",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/introduction#force-recreate-images-and-containers-f",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/workspace/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/format-and-validate",
+        "title": "Format & Validate - Phidata",
+        "local_path": "templates/how-to/format-and-validate"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/settings#example",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/workspace/settings"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/settings#usage",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/workspace/settings"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/resources#example",
+        "title": "Workspace Resources - Phidata",
+        "local_path": "templates/workspace/resources"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/resources#dockerresources",
+        "title": "Workspace Resources - Phidata",
+        "local_path": "templates/workspace/resources"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/workspace/resources#awsresources",
+        "title": "Workspace Resources - Phidata",
+        "local_path": "templates/workspace/resources"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/introduction#example",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/apps/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/introduction#motivation",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/apps/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#install-requirements-on-startup",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/examples#run-pgvector-on-docker",
+        "title": "Examples - Phidata",
+        "local_path": "templates/apps/examples"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/examples#run-jupyter-on-docker",
+        "title": "Examples - Phidata",
+        "local_path": "templates/apps/examples"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/examples#view-jupyterlab-ui",
+        "title": "Examples - Phidata",
+        "local_path": "templates/apps/examples"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/examples#stop-resources",
+        "title": "Examples - Phidata",
+        "local_path": "templates/apps/examples"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/features#install-requirements-on-startup",
+        "title": "Features - Phidata",
+        "local_path": "templates/apps/features"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/apps/features#patch-resources",
+        "title": "Features - Phidata",
+        "local_path": "templates/apps/features"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/introduction#examples",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/resources/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/introduction#motivation",
+        "title": "Introduction - Phidata",
+        "local_path": "templates/resources/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/docker/introduction",
+        "title": "Docker - Phidata",
+        "local_path": "templates/resources/docker/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/aws/introduction",
+        "title": "AWS Resources - Phidata",
+        "local_path": "templates/resources/aws/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#setup",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#create-your-codebase",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#set-credentials",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#run-llm-os",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#llm-os",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#optional-serve-your-llm-os-as-an-api",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#build-an-ai-product-using-the-llm-os",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#delete-local-resources",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-local#next",
+        "title": "LLM OS - Phidata",
+        "local_path": "templates/llm-os/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/workspace-settings",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/how-to/workspace-settings"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/git-repo",
+        "title": "Create Git Repo - Phidata",
+        "local_path": "templates/how-to/git-repo"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/development-app",
+        "title": "Development Application - Phidata",
+        "local_path": "templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#setup",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#create-your-codebase",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#set-openai-key",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#run-streamlit",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#pdf-assistant",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#image-assistant",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#website-assistant",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#add-your-data",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#how-this-app-works",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#optional-serve-your-ai-using-fastapi",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#build-your-ai-product",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#optional-run-jupyterlab",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#delete-local-resources",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-local#next",
+        "title": "Build an AI App - Phidata",
+        "local_path": "templates/ai-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-aws",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-api/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#setup",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#create-your-codebase",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#set-openai-key",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#local-api-and-database",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#sample-api-endpoints",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#optional-add-your-data",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#optional-build-your-ai-product",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#delete-local-resources",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-local#next",
+        "title": "Build an AI API - Phidata",
+        "local_path": "templates/ai-api/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-aws",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/streamlit-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#setup",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#create-your-codebase",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#set-openai-key",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#local-streamlit-app",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#pdf-assistant",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#image-assistant",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#website-assistant",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#add-your-data",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#how-this-app-works",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#delete-local-resources",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-local#next",
+        "title": "Build a Streamlit App - Phidata",
+        "local_path": "templates/streamlit-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#setup",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#create-your-codebase",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#set-openai-key",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#local-web-app",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#view-your-django-app",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#django-admin",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#build-your-web-app",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#delete-local-resources",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-local#next",
+        "title": "Build a Web App using Django - Phidata",
+        "local_path": "templates/django-app/run-local"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistants/duckdb",
+        "title": "DuckDb Assistant - Phidata",
+        "local_path": "reference/blocks/assistants/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistants/python#example",
+        "title": "PythonAssistant - Phidata",
+        "local_path": "reference/blocks/assistants/python"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistants/python#pythonassistant-params",
+        "title": "PythonAssistant - Phidata",
+        "local_path": "reference/blocks/assistants/python"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistants/python#assistant-reference",
+        "title": "PythonAssistant - Phidata",
+        "local_path": "reference/blocks/assistants/python"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#macos",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#setting-environment-variables-in-shell",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#temporary-environment-variables",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#permanent-environment-variables",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#windows",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#setting-environment-variables-in-powershell",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#temporary-environment-variables-2",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#permanent-environment-variables-2",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#setting-environment-variables-in-windows-command-prompt",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#temporary-environment-variables-3",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/faq/environment_variables#permanent-environment-variables-3",
+        "title": "Setting Environment Variables - Phidata",
+        "local_path": "faq/environment_variables"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/functions",
+        "title": "Functions - Phidata",
+        "local_path": "tools/functions"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/toolkits",
+        "title": "Toolkits - Phidata",
+        "local_path": "tools/toolkits"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/custom-toolkits",
+        "title": "Writing your own Toolkit - Phidata",
+        "local_path": "tools/custom-toolkits"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/arxiv",
+        "title": "Arxiv - Phidata",
+        "local_path": "tools/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/apify",
+        "title": "Apify - Phidata",
+        "local_path": "tools/apify"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/csv",
+        "title": "CSV - Phidata",
+        "local_path": "tools/csv"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckdb",
+        "title": "DuckDb - Phidata",
+        "local_path": "tools/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckduckgo",
+        "title": "DuckDuckGo - Phidata",
+        "local_path": "tools/duckduckgo"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/email",
+        "title": "Email - Phidata",
+        "local_path": "tools/email"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/exa",
+        "title": "Exa - Phidata",
+        "local_path": "tools/exa"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/file",
+        "title": "File - Phidata",
+        "local_path": "tools/file"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/newspaper4k",
+        "title": "Newspaper4k - Phidata",
+        "local_path": "tools/newspaper4k"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/openbb",
+        "title": "OpenBBTools - Phidata",
+        "local_path": "tools/openbb"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/pubmed",
+        "title": "Pubmed - Phidata",
+        "local_path": "tools/pubmed"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/resend",
+        "title": "Resend - Phidata",
+        "local_path": "tools/resend"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/serpapi",
+        "title": "Serpapi - Phidata",
+        "local_path": "tools/serpapi"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/shell",
+        "title": "Shell - Phidata",
+        "local_path": "tools/shell"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/sql",
+        "title": "SQL - Phidata",
+        "local_path": "tools/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/tavily",
+        "title": "Tavily - Phidata",
+        "local_path": "tools/tavily"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/wikipedia",
+        "title": "Wikipedia - Phidata",
+        "local_path": "tools/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/website",
+        "title": "Website - Phidata",
+        "local_path": "tools/website"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/yfinance",
+        "title": "Yfinance - Phidata",
+        "local_path": "tools/yfinance"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/youtube",
+        "title": "Youtube - Phidata",
+        "local_path": "tools/youtube"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/zendesk",
+        "title": "Zendesk - Phidata",
+        "local_path": "tools/zendesk"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/cohere",
+        "title": "Cohere - Phidata",
+        "local_path": "llms/cohere"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/pdf",
+        "title": "PDF Knowledge Base - Phidata",
+        "local_path": "knowledge/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/pdf-url",
+        "title": "PDF URL Knowledge Base - Phidata",
+        "local_path": "knowledge/pdf-url"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/text",
+        "title": "Text Knowledge Base - Phidata",
+        "local_path": "knowledge/text"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/docx",
+        "title": "Docx Knowledge Base - Phidata",
+        "local_path": "knowledge/docx"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/json",
+        "title": "JSON Knowledge Base - Phidata",
+        "local_path": "knowledge/json"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/website",
+        "title": "Website Knowledge Base - Phidata",
+        "local_path": "knowledge/website"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/wikipedia",
+        "title": "Wikipedia KnowledgeBase - Phidata",
+        "local_path": "knowledge/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/arxiv",
+        "title": "ArXiv Knowledge Base - Phidata",
+        "local_path": "knowledge/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/combined",
+        "title": "Combined KnowledgeBase - Phidata",
+        "local_path": "knowledge/combined"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/langchain",
+        "title": "LangChain Knowledge Base - Phidata",
+        "local_path": "knowledge/langchain"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/manual",
+        "title": "Load Knowledge Base manually - Phidata",
+        "local_path": "knowledge/manual"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/introduction#vector-databases",
+        "title": "Introduction - Phidata",
+        "local_path": "knowledge/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/introduction#loading-the-knowledge-base",
+        "title": "Introduction - Phidata",
+        "local_path": "knowledge/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/storage/postgres",
+        "title": "Postgres Assistant Storage - Phidata",
+        "local_path": "storage/postgres"
+    },
+    {
+        "url": "https://docs.phidata.com/vectordb/lancedb",
+        "title": "LanceDB - Phidata",
+        "local_path": "vectordb/lancedb"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/sql#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-cases/arxiv-research#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "examples/use-cases/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/rag",
+        "title": "RAG Assistant - Phidata",
+        "local_path": "examples/assistants/rag"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/auto",
+        "title": "Autonomous Assistant - Phidata",
+        "local_path": "examples/assistants/auto"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/pdf",
+        "title": "PDF Assistant with Storage - Phidata",
+        "local_path": "examples/assistants/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/hackernews",
+        "title": "Hackernews Assistant - Phidata",
+        "local_path": "examples/assistants/hackernews"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/structured-output",
+        "title": "Structured Output - Phidata",
+        "local_path": "examples/assistants/structured-output"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/langchain-retriever",
+        "title": "LangChain Retriever - Phidata",
+        "local_path": "examples/assistants/langchain-retriever"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/python",
+        "title": "Python Assistant - Phidata",
+        "local_path": "examples/assistants/python"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/data-analyst",
+        "title": "Data Analyst - Phidata",
+        "local_path": "examples/assistants/data-analyst"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/vision",
+        "title": "Vision Assistant - Phidata",
+        "local_path": "examples/assistants/vision"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/basic#usage",
+        "title": "Basic Assistant - Phidata",
+        "local_path": "examples/assistants/basic"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/basic#information",
+        "title": "Basic Assistant - Phidata",
+        "local_path": "examples/assistants/basic"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/openai",
+        "title": "OpenAI - Phidata",
+        "local_path": "examples/llms/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/anyscale",
+        "title": "Anyscale - Phidata",
+        "local_path": "examples/llms/anyscale"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/azure",
+        "title": "Azure - Phidata",
+        "local_path": "examples/llms/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/claude",
+        "title": "Claude - Phidata",
+        "local_path": "examples/llms/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/cohere",
+        "title": "Cohere - Phidata",
+        "local_path": "examples/llms/cohere"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/fireworks",
+        "title": "Fireworks - Phidata",
+        "local_path": "examples/llms/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/gemini",
+        "title": "Gemini - Phidata",
+        "local_path": "examples/llms/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/groq",
+        "title": "Groq - Phidata",
+        "local_path": "examples/llms/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/hermes2",
+        "title": "Hermes2 - Phidata",
+        "local_path": "examples/llms/hermes2"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/mistral",
+        "title": "Mistral - Phidata",
+        "local_path": "examples/llms/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/ollama",
+        "title": "Ollama - Phidata",
+        "local_path": "examples/llms/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/together#example",
+        "title": "Together - Phidata",
+        "local_path": "examples/llms/together"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/together#usage",
+        "title": "Together - Phidata",
+        "local_path": "examples/llms/together"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/together#information",
+        "title": "Together - Phidata",
+        "local_path": "examples/llms/together"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/instructions#system-prompt",
+        "title": "Instructions (Prompts) - Phidata",
+        "local_path": "assistants/instructions"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/instructions#user-prompt",
+        "title": "Instructions (Prompts) - Phidata",
+        "local_path": "assistants/instructions"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/instructions#overriding-default-prompts",
+        "title": "Instructions (Prompts) - Phidata",
+        "local_path": "assistants/instructions"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/instructions#customize-the-system-prompt",
+        "title": "Instructions (Prompts) - Phidata",
+        "local_path": "assistants/instructions"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/instructions#customize-the-user-prompt",
+        "title": "Instructions (Prompts) - Phidata",
+        "local_path": "assistants/instructions"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/tools#using-a-toolkit",
+        "title": "Tools - Phidata",
+        "local_path": "assistants/tools"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/tools#writing-your-own-tools",
+        "title": "Tools - Phidata",
+        "local_path": "assistants/tools"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/tools#params",
+        "title": "Tools - Phidata",
+        "local_path": "assistants/tools"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/knowledge#vector-databases",
+        "title": "Knowledge - Phidata",
+        "local_path": "assistants/knowledge"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/knowledge#example-assistant-with-a-pdf-knowledge-base",
+        "title": "Knowledge - Phidata",
+        "local_path": "assistants/knowledge"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/knowledge#step-1-run-pgvector",
+        "title": "Knowledge - Phidata",
+        "local_path": "assistants/knowledge"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/knowledge#step-2-rag-assistant",
+        "title": "Knowledge - Phidata",
+        "local_path": "assistants/knowledge"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/knowledge#step-3-autonomous-assistant",
+        "title": "Knowledge - Phidata",
+        "local_path": "assistants/knowledge"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/memory#example",
+        "title": "Memory - Phidata",
+        "local_path": "assistants/memory"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/storage#params",
+        "title": "Storage - Phidata",
+        "local_path": "assistants/storage"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/storage#example",
+        "title": "Storage - Phidata",
+        "local_path": "assistants/storage"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/structured-output#example",
+        "title": "Structured Output - Phidata",
+        "local_path": "assistants/structured-output"
+    },
+    {
+        "url": "https://docs.phidata.com/assistants/teams#how-to-build-assistant-teams",
+        "title": "Teams - Phidata",
+        "local_path": "assistants/teams"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "llms/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/new-users",
+        "title": "Setup workspace for new users - Phidata",
+        "local_path": "templates/how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/format-and-validate#format",
+        "title": "Format & Validate - Phidata",
+        "local_path": "templates/how-to/format-and-validate"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/format-and-validate#validate",
+        "title": "Format & Validate - Phidata",
+        "local_path": "templates/how-to/format-and-validate"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/pgvector#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/examples/jupyter#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/examples/jupyter"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app/features#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app/features"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/docker/container",
+        "title": "Container - Phidata",
+        "local_path": "templates/resources/docker/container"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/docker/introduction#docker-resources",
+        "title": "Docker - Phidata",
+        "local_path": "templates/resources/docker/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/docker/introduction#benefits",
+        "title": "Docker - Phidata",
+        "local_path": "templates/resources/docker/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/docker/introduction#container",
+        "title": "Docker - Phidata",
+        "local_path": "templates/resources/docker/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/docker/introduction#image",
+        "title": "Docker - Phidata",
+        "local_path": "templates/resources/docker/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/aws/ecs",
+        "title": "ECS - Phidata",
+        "local_path": "templates/resources/aws/ecs"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/aws/rds",
+        "title": "RDS - Phidata",
+        "local_path": "templates/resources/aws/rds"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/aws/introduction#examples",
+        "title": "AWS Resources - Phidata",
+        "local_path": "templates/resources/aws/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/aws/introduction#s3-bucket",
+        "title": "AWS Resources - Phidata",
+        "local_path": "templates/resources/aws/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/resources/aws/introduction#secret-manager",
+        "title": "AWS Resources - Phidata",
+        "local_path": "templates/resources/aws/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws#aws-setup",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws#update-secrets",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws#create-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws#llm-os-app",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws#llm-os-api",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws#update-production",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws#delete-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/llm-os/run-aws#next",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/llm-os/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/production-app",
+        "title": "Production Application - Phidata",
+        "local_path": "templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/domain-https",
+        "title": "Use Custom Domain and HTTPS - Phidata",
+        "local_path": "templates/how-to/domain-https"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/ci-cd",
+        "title": "CI/CD - Phidata",
+        "local_path": "templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/workspace-settings#workspace-name",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/how-to/workspace-settings"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/workspace-settings#image-repository",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/how-to/workspace-settings"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/workspace-settings#build-images",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/how-to/workspace-settings"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#build-your-development-image",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#build-your-production-image",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/workspace-settings#push-images",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/how-to/workspace-settings"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/workspace-settings#aws-settings",
+        "title": "Workspace Settings - Phidata",
+        "local_path": "templates/how-to/workspace-settings"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/ssh-access",
+        "title": "SSH Access - Phidata",
+        "local_path": "templates/how-to/ssh-access"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/secrets",
+        "title": "Add Secrets - Phidata",
+        "local_path": "templates/how-to/secrets"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/env-vars",
+        "title": "Environment variables - Phidata",
+        "local_path": "templates/how-to/env-vars"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#build-your-development-image",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#restart-all-containers",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#recreate-development-resources",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/development-app#workspace-settings",
+        "title": "Development Application - Phidata",
+        "local_path": "templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/development-app#build-your-development-image",
+        "title": "Development Application - Phidata",
+        "local_path": "templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/development-app#build-a-new-image",
+        "title": "Development Application - Phidata",
+        "local_path": "templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/development-app#restart-all-containers",
+        "title": "Development Application - Phidata",
+        "local_path": "templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/development-app#recreate-development-resources",
+        "title": "Development Application - Phidata",
+        "local_path": "templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries#update-pyproject-toml",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries#generate-requirements",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries#rebuild-images",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries#rebuild-dev-images",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries#rebuild-production-images",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#ecr-images",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries#recreate-resources",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries#recreate-dev-containers",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/python-libraries#restart-ecs-services",
+        "title": "Add Python Libraries - Phidata",
+        "local_path": "templates/how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#aws-setup",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#update-secrets",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#create-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#production-streamlit-app",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#pdf-assistant",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#production-fastapi",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#update-production",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#delete-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-app/run-aws#next",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-aws#aws-setup",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-api/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-aws#update-secrets",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-api/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-aws#create-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-api/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-aws#production-fastapi",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-api/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-aws#update-production",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-api/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-aws#delete-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-api/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/ai-api/run-aws#next",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/ai-api/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-aws#aws-setup",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/streamlit-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-aws#update-secrets",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/streamlit-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-aws#create-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/streamlit-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-aws#update-production",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/streamlit-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-aws#delete-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/streamlit-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/streamlit-app/run-aws#next",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/streamlit-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws#aws-setup",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws#update-secrets",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws#create-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws#production-django-app",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws#production-django-admin",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws#update-production",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws#delete-aws-resources",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/django-app/run-aws#next",
+        "title": "Run on AWS - Phidata",
+        "local_path": "templates/django-app/run-aws"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistants/duckdb#example",
+        "title": "DuckDb Assistant - Phidata",
+        "local_path": "reference/blocks/assistants/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistants/duckdb#duckdbassistant-params",
+        "title": "DuckDb Assistant - Phidata",
+        "local_path": "reference/blocks/assistants/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/assistants/duckdb#assistant-reference",
+        "title": "DuckDb Assistant - Phidata",
+        "local_path": "reference/blocks/assistants/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/base",
+        "title": "LLM Base - Phidata",
+        "local_path": "reference/blocks/llm/base"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/python",
+        "title": "Python - Phidata",
+        "local_path": "tools/python"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/arxiv#example",
+        "title": "Arxiv - Phidata",
+        "local_path": "tools/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/arxiv#toolkit-params",
+        "title": "Arxiv - Phidata",
+        "local_path": "tools/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/arxiv#toolkit-functions",
+        "title": "Arxiv - Phidata",
+        "local_path": "tools/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/apify#example",
+        "title": "Apify - Phidata",
+        "local_path": "tools/apify"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/apify#toolkit-params",
+        "title": "Apify - Phidata",
+        "local_path": "tools/apify"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/apify#toolkit-functions",
+        "title": "Apify - Phidata",
+        "local_path": "tools/apify"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/csv#example",
+        "title": "CSV - Phidata",
+        "local_path": "tools/csv"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/csv#toolkit-params",
+        "title": "CSV - Phidata",
+        "local_path": "tools/csv"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/csv#toolkit-functions",
+        "title": "CSV - Phidata",
+        "local_path": "tools/csv"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckdb#prerequisites",
+        "title": "DuckDb - Phidata",
+        "local_path": "tools/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckdb#example",
+        "title": "DuckDb - Phidata",
+        "local_path": "tools/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckdb#toolkit-params",
+        "title": "DuckDb - Phidata",
+        "local_path": "tools/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckdb#toolkit-functions",
+        "title": "DuckDb - Phidata",
+        "local_path": "tools/duckdb"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckduckgo#example",
+        "title": "DuckDuckGo - Phidata",
+        "local_path": "tools/duckduckgo"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckduckgo#toolkit-params",
+        "title": "DuckDuckGo - Phidata",
+        "local_path": "tools/duckduckgo"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/duckduckgo#toolkit-functions",
+        "title": "DuckDuckGo - Phidata",
+        "local_path": "tools/duckduckgo"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/email#example",
+        "title": "Email - Phidata",
+        "local_path": "tools/email"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/email#toolkit-params",
+        "title": "Email - Phidata",
+        "local_path": "tools/email"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/email#toolkit-functions",
+        "title": "Email - Phidata",
+        "local_path": "tools/email"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/exa#example",
+        "title": "Exa - Phidata",
+        "local_path": "tools/exa"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/exa#toolkit-params",
+        "title": "Exa - Phidata",
+        "local_path": "tools/exa"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/exa#toolkit-functions",
+        "title": "Exa - Phidata",
+        "local_path": "tools/exa"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/file#example",
+        "title": "File - Phidata",
+        "local_path": "tools/file"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/file#toolkit-params",
+        "title": "File - Phidata",
+        "local_path": "tools/file"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/file#toolkit-functions",
+        "title": "File - Phidata",
+        "local_path": "tools/file"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/newspaper4k#example",
+        "title": "Newspaper4k - Phidata",
+        "local_path": "tools/newspaper4k"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/newspaper4k#toolkit-params",
+        "title": "Newspaper4k - Phidata",
+        "local_path": "tools/newspaper4k"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/newspaper4k#toolkit-functions",
+        "title": "Newspaper4k - Phidata",
+        "local_path": "tools/newspaper4k"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/openbb#toolkit-params",
+        "title": "OpenBBTools - Phidata",
+        "local_path": "tools/openbb"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/openbb#toolkit-functions",
+        "title": "OpenBBTools - Phidata",
+        "local_path": "tools/openbb"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/pubmed#example",
+        "title": "Pubmed - Phidata",
+        "local_path": "tools/pubmed"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/pubmed#toolkit-params",
+        "title": "Pubmed - Phidata",
+        "local_path": "tools/pubmed"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/pubmed#toolkit-functions",
+        "title": "Pubmed - Phidata",
+        "local_path": "tools/pubmed"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/resend#example",
+        "title": "Resend - Phidata",
+        "local_path": "tools/resend"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/resend#toolkit-params",
+        "title": "Resend - Phidata",
+        "local_path": "tools/resend"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/resend#toolkit-functions",
+        "title": "Resend - Phidata",
+        "local_path": "tools/resend"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/serpapi#example",
+        "title": "Serpapi - Phidata",
+        "local_path": "tools/serpapi"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/serpapi#toolkit-params",
+        "title": "Serpapi - Phidata",
+        "local_path": "tools/serpapi"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/serpapi#toolkit-functions",
+        "title": "Serpapi - Phidata",
+        "local_path": "tools/serpapi"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/shell#example",
+        "title": "Shell - Phidata",
+        "local_path": "tools/shell"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/shell#functions-in-toolkit",
+        "title": "Shell - Phidata",
+        "local_path": "tools/shell"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/sql#example",
+        "title": "SQL - Phidata",
+        "local_path": "tools/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/sql#toolkit-params",
+        "title": "SQL - Phidata",
+        "local_path": "tools/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/sql#toolkit-functions",
+        "title": "SQL - Phidata",
+        "local_path": "tools/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/tavily#example",
+        "title": "Tavily - Phidata",
+        "local_path": "tools/tavily"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/tavily#toolkit-params",
+        "title": "Tavily - Phidata",
+        "local_path": "tools/tavily"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/tavily#toolkit-functions",
+        "title": "Tavily - Phidata",
+        "local_path": "tools/tavily"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/wikipedia#example",
+        "title": "Wikipedia - Phidata",
+        "local_path": "tools/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/wikipedia#toolkit-params",
+        "title": "Wikipedia - Phidata",
+        "local_path": "tools/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/wikipedia#toolkit-functions",
+        "title": "Wikipedia - Phidata",
+        "local_path": "tools/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/website#example",
+        "title": "Website - Phidata",
+        "local_path": "tools/website"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/website#toolkit-params",
+        "title": "Website - Phidata",
+        "local_path": "tools/website"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/website#toolkit-functions",
+        "title": "Website - Phidata",
+        "local_path": "tools/website"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/yfinance#example",
+        "title": "Yfinance - Phidata",
+        "local_path": "tools/yfinance"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/yfinance#toolkit-params",
+        "title": "Yfinance - Phidata",
+        "local_path": "tools/yfinance"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/yfinance#toolkit-functions",
+        "title": "Yfinance - Phidata",
+        "local_path": "tools/yfinance"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/youtube#example",
+        "title": "Youtube - Phidata",
+        "local_path": "tools/youtube"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/youtube#toolkit-params",
+        "title": "Youtube - Phidata",
+        "local_path": "tools/youtube"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/youtube#toolkit-functions",
+        "title": "Youtube - Phidata",
+        "local_path": "tools/youtube"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/zendesk#example",
+        "title": "Zendesk - Phidata",
+        "local_path": "tools/zendesk"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/zendesk#toolkit-params",
+        "title": "Zendesk - Phidata",
+        "local_path": "tools/zendesk"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/zendesk#toolkit-functions",
+        "title": "Zendesk - Phidata",
+        "local_path": "tools/zendesk"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/openai",
+        "title": "OpenAI - Phidata",
+        "local_path": "llms/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/openai-like",
+        "title": "OpenAI Like - Phidata",
+        "local_path": "llms/openai-like"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/ollama",
+        "title": "Ollama - Phidata",
+        "local_path": "llms/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws-claude",
+        "title": "AWS Bedrock Claude - Phidata",
+        "local_path": "llms/aws-claude"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/together",
+        "title": "Together - Phidata",
+        "local_path": "llms/together"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/anyscale",
+        "title": "Anyscale - Phidata",
+        "local_path": "llms/anyscale"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/fireworks",
+        "title": "Fireworks - Phidata",
+        "local_path": "llms/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/mistral",
+        "title": "Mistral - Phidata",
+        "local_path": "llms/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/groq",
+        "title": "Groq - Phidata",
+        "local_path": "llms/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/gemini",
+        "title": "Gemini - Phidata",
+        "local_path": "llms/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/azure",
+        "title": "Azure - Phidata",
+        "local_path": "llms/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/claude",
+        "title": "Anthropic Claude - Phidata",
+        "local_path": "llms/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/cohere#authentication",
+        "title": "Cohere - Phidata",
+        "local_path": "llms/cohere"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/cohere#example",
+        "title": "Cohere - Phidata",
+        "local_path": "llms/cohere"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/cohere#params",
+        "title": "Cohere - Phidata",
+        "local_path": "llms/cohere"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/pdf#usage",
+        "title": "PDF Knowledge Base - Phidata",
+        "local_path": "knowledge/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/vectordb/pgvector",
+        "title": "PgVector - Phidata",
+        "local_path": "vectordb/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/pdf#params",
+        "title": "PDF Knowledge Base - Phidata",
+        "local_path": "knowledge/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/pdf-url#usage",
+        "title": "PDF URL Knowledge Base - Phidata",
+        "local_path": "knowledge/pdf-url"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/pdf-url#params",
+        "title": "PDF URL Knowledge Base - Phidata",
+        "local_path": "knowledge/pdf-url"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/text#usage",
+        "title": "Text Knowledge Base - Phidata",
+        "local_path": "knowledge/text"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/text#params",
+        "title": "Text Knowledge Base - Phidata",
+        "local_path": "knowledge/text"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/docx#usage",
+        "title": "Docx Knowledge Base - Phidata",
+        "local_path": "knowledge/docx"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/docx#params",
+        "title": "Docx Knowledge Base - Phidata",
+        "local_path": "knowledge/docx"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/json#usage",
+        "title": "JSON Knowledge Base - Phidata",
+        "local_path": "knowledge/json"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/json#params",
+        "title": "JSON Knowledge Base - Phidata",
+        "local_path": "knowledge/json"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/website#usage",
+        "title": "Website Knowledge Base - Phidata",
+        "local_path": "knowledge/website"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/website#params",
+        "title": "Website Knowledge Base - Phidata",
+        "local_path": "knowledge/website"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/wikipedia#usage",
+        "title": "Wikipedia KnowledgeBase - Phidata",
+        "local_path": "knowledge/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/wikipedia#params",
+        "title": "Wikipedia KnowledgeBase - Phidata",
+        "local_path": "knowledge/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/arxiv#usage",
+        "title": "ArXiv Knowledge Base - Phidata",
+        "local_path": "knowledge/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/arxiv#params",
+        "title": "ArXiv Knowledge Base - Phidata",
+        "local_path": "knowledge/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/combined#usage",
+        "title": "Combined KnowledgeBase - Phidata",
+        "local_path": "knowledge/combined"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/combined#params",
+        "title": "Combined KnowledgeBase - Phidata",
+        "local_path": "knowledge/combined"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/langchain#usage",
+        "title": "LangChain Knowledge Base - Phidata",
+        "local_path": "knowledge/langchain"
+    },
+    {
+        "url": "https://docs.phidata.com/knowledge/langchain#params",
+        "title": "LangChain Knowledge Base - Phidata",
+        "local_path": "knowledge/langchain"
+    },
+    {
+        "url": "https://docs.phidata.com/vectordb/introduction",
+        "title": "Introduction - Phidata",
+        "local_path": "vectordb/introduction"
+    },
+    {
+        "url": "https://docs.phidata.com/storage/postgres#usage",
+        "title": "Postgres Assistant Storage - Phidata",
+        "local_path": "storage/postgres"
+    },
+    {
+        "url": "https://docs.phidata.com/storage/postgres#params",
+        "title": "Postgres Assistant Storage - Phidata",
+        "local_path": "storage/postgres"
+    },
+    {
+        "url": "https://docs.phidata.com/vectordb/singlestore",
+        "title": "SingleStore - Phidata",
+        "local_path": "vectordb/singlestore"
+    },
+    {
+        "url": "https://docs.phidata.com/vectordb/pinecone",
+        "title": "Pinecone - Phidata",
+        "local_path": "vectordb/pinecone"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/rag#usage",
+        "title": "RAG Assistant - Phidata",
+        "local_path": "examples/assistants/rag"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/rag#information",
+        "title": "RAG Assistant - Phidata",
+        "local_path": "examples/assistants/rag"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/auto#usage",
+        "title": "Autonomous Assistant - Phidata",
+        "local_path": "examples/assistants/auto"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/auto#information",
+        "title": "Autonomous Assistant - Phidata",
+        "local_path": "examples/assistants/auto"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/pdf#usage",
+        "title": "PDF Assistant with Storage - Phidata",
+        "local_path": "examples/assistants/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/pdf#information",
+        "title": "PDF Assistant with Storage - Phidata",
+        "local_path": "examples/assistants/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/hackernews#usage",
+        "title": "Hackernews Assistant - Phidata",
+        "local_path": "examples/assistants/hackernews"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/hackernews#information",
+        "title": "Hackernews Assistant - Phidata",
+        "local_path": "examples/assistants/hackernews"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/structured-output#usage",
+        "title": "Structured Output - Phidata",
+        "local_path": "examples/assistants/structured-output"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/structured-output#information",
+        "title": "Structured Output - Phidata",
+        "local_path": "examples/assistants/structured-output"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/langchain-retriever#usage",
+        "title": "LangChain Retriever - Phidata",
+        "local_path": "examples/assistants/langchain-retriever"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/assistants/langchain-retriever#information",
+        "title": "LangChain Retriever - Phidata",
+        "local_path": "examples/assistants/langchain-retriever"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/teams/research",
+        "title": "Research Team - Phidata",
+        "local_path": "examples/teams/research"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/openai#example",
+        "title": "OpenAI - Phidata",
+        "local_path": "examples/llms/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/openai#usage",
+        "title": "OpenAI - Phidata",
+        "local_path": "examples/llms/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/openai#information",
+        "title": "OpenAI - Phidata",
+        "local_path": "examples/llms/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/integrations/pinecone",
+        "title": "Pinecone - Phidata",
+        "local_path": "examples/integrations/pinecone"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/anyscale#example",
+        "title": "Anyscale - Phidata",
+        "local_path": "examples/llms/anyscale"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/anyscale#usage",
+        "title": "Anyscale - Phidata",
+        "local_path": "examples/llms/anyscale"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/anyscale#information",
+        "title": "Anyscale - Phidata",
+        "local_path": "examples/llms/anyscale"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/azure#example",
+        "title": "Azure - Phidata",
+        "local_path": "examples/llms/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/azure#usage",
+        "title": "Azure - Phidata",
+        "local_path": "examples/llms/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/azure#information",
+        "title": "Azure - Phidata",
+        "local_path": "examples/llms/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/claude#example",
+        "title": "Claude - Phidata",
+        "local_path": "examples/llms/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/claude#usage",
+        "title": "Claude - Phidata",
+        "local_path": "examples/llms/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/claude#information",
+        "title": "Claude - Phidata",
+        "local_path": "examples/llms/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/cohere#example",
+        "title": "Cohere - Phidata",
+        "local_path": "examples/llms/cohere"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/cohere#usage",
+        "title": "Cohere - Phidata",
+        "local_path": "examples/llms/cohere"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/cohere#information",
+        "title": "Cohere - Phidata",
+        "local_path": "examples/llms/cohere"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/fireworks#example",
+        "title": "Fireworks - Phidata",
+        "local_path": "examples/llms/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/fireworks#usage",
+        "title": "Fireworks - Phidata",
+        "local_path": "examples/llms/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/fireworks#information",
+        "title": "Fireworks - Phidata",
+        "local_path": "examples/llms/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/gemini#example",
+        "title": "Gemini - Phidata",
+        "local_path": "examples/llms/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/gemini#usage",
+        "title": "Gemini - Phidata",
+        "local_path": "examples/llms/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/gemini#information",
+        "title": "Gemini - Phidata",
+        "local_path": "examples/llms/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/groq#example",
+        "title": "Groq - Phidata",
+        "local_path": "examples/llms/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/groq#usage",
+        "title": "Groq - Phidata",
+        "local_path": "examples/llms/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/groq#information",
+        "title": "Groq - Phidata",
+        "local_path": "examples/llms/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/hermes2#example",
+        "title": "Hermes2 - Phidata",
+        "local_path": "examples/llms/hermes2"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/hermes2#usage",
+        "title": "Hermes2 - Phidata",
+        "local_path": "examples/llms/hermes2"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/hermes2#information",
+        "title": "Hermes2 - Phidata",
+        "local_path": "examples/llms/hermes2"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/mistral#example",
+        "title": "Mistral - Phidata",
+        "local_path": "examples/llms/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/mistral#usage",
+        "title": "Mistral - Phidata",
+        "local_path": "examples/llms/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/mistral#information",
+        "title": "Mistral - Phidata",
+        "local_path": "examples/llms/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/ollama#example",
+        "title": "Ollama - Phidata",
+        "local_path": "examples/llms/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/ollama#usage",
+        "title": "Ollama - Phidata",
+        "local_path": "examples/llms/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/llms/ollama#information",
+        "title": "Ollama - Phidata",
+        "local_path": "examples/llms/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/blocks/app#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "blocks/app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/production-app#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#build-your-production-image",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#ecs-task-definition",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#ecs-service",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/production-app#workspace-settings",
+        "title": "Production Application - Phidata",
+        "local_path": "templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/production-app#build-your-production-image",
+        "title": "Production Application - Phidata",
+        "local_path": "templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/production-app#build-a-new-image",
+        "title": "Production Application - Phidata",
+        "local_path": "templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/production-app#use-ecr-for-images",
+        "title": "Production Application - Phidata",
+        "local_path": "templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/production-app#ecs-task-definition",
+        "title": "Production Application - Phidata",
+        "local_path": "templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/production-app#ecs-service",
+        "title": "Production Application - Phidata",
+        "local_path": "templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/domain-https#use-a-custom-domain",
+        "title": "Use Custom Domain and HTTPS - Phidata",
+        "local_path": "templates/how-to/domain-https"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/domain-https#custom-domain-for-your-streamlit-app",
+        "title": "Use Custom Domain and HTTPS - Phidata",
+        "local_path": "templates/how-to/domain-https"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/domain-https#custom-domain-for-your-fastapi-app",
+        "title": "Use Custom Domain and HTTPS - Phidata",
+        "local_path": "templates/how-to/domain-https"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/domain-https#add-https",
+        "title": "Use Custom Domain and HTTPS - Phidata",
+        "local_path": "templates/how-to/domain-https"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#test-and-validate-on-every-pr",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#build-docker-images-with-github-releases",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#build-ecr-images-with-github-releases",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/ci-cd#test-and-validate-on-every-pr",
+        "title": "CI/CD - Phidata",
+        "local_path": "templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/ci-cd#build-docker-images-with-github-releases",
+        "title": "CI/CD - Phidata",
+        "local_path": "templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/ci-cd#build-ecr-images-with-github-releases",
+        "title": "CI/CD - Phidata",
+        "local_path": "templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/development-app#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/ssh-access#dev-ssh-access",
+        "title": "SSH Access - Phidata",
+        "local_path": "templates/how-to/ssh-access"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/ssh-access#production-ssh-access",
+        "title": "SSH Access - Phidata",
+        "local_path": "templates/how-to/ssh-access"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/new-users#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/new-users"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/secrets#development-secrets",
+        "title": "Add Secrets - Phidata",
+        "local_path": "templates/how-to/secrets"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/secrets#production-secrets",
+        "title": "Add Secrets - Phidata",
+        "local_path": "templates/how-to/secrets"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#table-definition",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#creat-a-database-revision",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#migrate-dev-database",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#optional-add-test-user",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#migrate-production-database",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#update-the-workspace-prd-resources-py-file",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#update-the-ecs-task-definition",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#update-the-ecs-service",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#manually-migrate-prodution-database",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/templates/how-to/database-tables#how-the-migrations-directory-was-created",
+        "title": "Database Tables - Phidata",
+        "local_path": "templates/how-to/database-tables"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/development-app#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/development-app"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/openai",
+        "title": "OpenAI - Phidata",
+        "local_path": "reference/blocks/llm/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/aws",
+        "title": "Aws Bedrock - Phidata",
+        "local_path": "reference/blocks/llm/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/together",
+        "title": "Together - Phidata",
+        "local_path": "reference/blocks/llm/together"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/ollama",
+        "title": "Ollama - Phidata",
+        "local_path": "reference/blocks/llm/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/fireworks",
+        "title": "Fireworks - Phidata",
+        "local_path": "reference/blocks/llm/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/mistral",
+        "title": "Mistral - Phidata",
+        "local_path": "reference/blocks/llm/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/groq",
+        "title": "Groq - Phidata",
+        "local_path": "reference/blocks/llm/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/gemini",
+        "title": "Gemini - Phidata",
+        "local_path": "reference/blocks/llm/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/azure",
+        "title": "Azure - Phidata",
+        "local_path": "reference/blocks/llm/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/claude",
+        "title": "Claude - Phidata",
+        "local_path": "reference/blocks/llm/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/base#base-params",
+        "title": "LLM Base - Phidata",
+        "local_path": "reference/blocks/llm/base"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/python#example",
+        "title": "Python - Phidata",
+        "local_path": "tools/python"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/python#toolkit-params",
+        "title": "Python - Phidata",
+        "local_path": "tools/python"
+    },
+    {
+        "url": "https://docs.phidata.com/tools/python#toolkit-functions",
+        "title": "Python - Phidata",
+        "local_path": "tools/python"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/openai#authentication",
+        "title": "OpenAI - Phidata",
+        "local_path": "llms/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/openai#example",
+        "title": "OpenAI - Phidata",
+        "local_path": "llms/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/openai#params",
+        "title": "OpenAI - Phidata",
+        "local_path": "llms/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/openai-like#usage",
+        "title": "OpenAI Like - Phidata",
+        "local_path": "llms/openai-like"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/openai-like#params",
+        "title": "OpenAI Like - Phidata",
+        "local_path": "llms/openai-like"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/ollama#usage",
+        "title": "Ollama - Phidata",
+        "local_path": "llms/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/ollama#params",
+        "title": "Ollama - Phidata",
+        "local_path": "llms/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws-claude#authentication",
+        "title": "AWS Bedrock Claude - Phidata",
+        "local_path": "llms/aws-claude"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws-claude#example",
+        "title": "AWS Bedrock Claude - Phidata",
+        "local_path": "llms/aws-claude"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws-claude#params",
+        "title": "AWS Bedrock Claude - Phidata",
+        "local_path": "llms/aws-claude"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/together#authentication",
+        "title": "Together - Phidata",
+        "local_path": "llms/together"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/together#usage",
+        "title": "Together - Phidata",
+        "local_path": "llms/together"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/together#params",
+        "title": "Together - Phidata",
+        "local_path": "llms/together"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/anyscale#authentication",
+        "title": "Anyscale - Phidata",
+        "local_path": "llms/anyscale"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/anyscale#usage",
+        "title": "Anyscale - Phidata",
+        "local_path": "llms/anyscale"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/anyscale#params",
+        "title": "Anyscale - Phidata",
+        "local_path": "llms/anyscale"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/fireworks#authentication",
+        "title": "Fireworks - Phidata",
+        "local_path": "llms/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/fireworks#usage",
+        "title": "Fireworks - Phidata",
+        "local_path": "llms/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/fireworks#params",
+        "title": "Fireworks - Phidata",
+        "local_path": "llms/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/mistral#authentication",
+        "title": "Mistral - Phidata",
+        "local_path": "llms/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/mistral#usage",
+        "title": "Mistral - Phidata",
+        "local_path": "llms/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/mistral#params",
+        "title": "Mistral - Phidata",
+        "local_path": "llms/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/groq#authentication",
+        "title": "Groq - Phidata",
+        "local_path": "llms/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/groq#usage",
+        "title": "Groq - Phidata",
+        "local_path": "llms/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/groq#params",
+        "title": "Groq - Phidata",
+        "local_path": "llms/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/gemini#prerequisites",
+        "title": "Gemini - Phidata",
+        "local_path": "llms/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/gemini#usage",
+        "title": "Gemini - Phidata",
+        "local_path": "llms/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/gemini#params",
+        "title": "Gemini - Phidata",
+        "local_path": "llms/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/azure#authentication",
+        "title": "Azure - Phidata",
+        "local_path": "llms/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/azure#usage",
+        "title": "Azure - Phidata",
+        "local_path": "llms/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/azure#params",
+        "title": "Azure - Phidata",
+        "local_path": "llms/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/claude#authentication",
+        "title": "Anthropic Claude - Phidata",
+        "local_path": "llms/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/claude#usage",
+        "title": "Anthropic Claude - Phidata",
+        "local_path": "llms/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/claude#params",
+        "title": "Anthropic Claude - Phidata",
+        "local_path": "llms/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/vectordb/pgvector#run-pgvector",
+        "title": "PgVector - Phidata",
+        "local_path": "vectordb/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/teams/journalist",
+        "title": "Journalist Team - Phidata",
+        "local_path": "examples/teams/journalist"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/teams/investment",
+        "title": "Investment Team - Phidata",
+        "local_path": "examples/teams/investment"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/teams/hackernews",
+        "title": "Hackernews Team - Phidata",
+        "local_path": "examples/teams/hackernews"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/integrations/pgvector",
+        "title": "PgVector - Phidata",
+        "local_path": "examples/integrations/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/integrations/singlestore",
+        "title": "SingleStore - Phidata",
+        "local_path": "examples/integrations/singlestore"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/integrations/lancedb",
+        "title": "LanceDB - Phidata",
+        "local_path": "examples/integrations/lancedb"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/llms/aws#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "llms/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/production-app#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/production-app"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/_sites/docs.phidata.com/templates/how-to/ci-cd#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "_sites/docs.phidata.com/templates/how-to/ci-cd"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/openai#example",
+        "title": "OpenAI - Phidata",
+        "local_path": "reference/blocks/llm/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/openai#openai-params",
+        "title": "OpenAI - Phidata",
+        "local_path": "reference/blocks/llm/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/openai#llm-params",
+        "title": "OpenAI - Phidata",
+        "local_path": "reference/blocks/llm/openai"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/aws#aws-bedrock-params",
+        "title": "Aws Bedrock - Phidata",
+        "local_path": "reference/blocks/llm/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/aws#llm-params",
+        "title": "Aws Bedrock - Phidata",
+        "local_path": "reference/blocks/llm/aws"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/together#example",
+        "title": "Together - Phidata",
+        "local_path": "reference/blocks/llm/together"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/together#together-params",
+        "title": "Together - Phidata",
+        "local_path": "reference/blocks/llm/together"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/together#llm-params",
+        "title": "Together - Phidata",
+        "local_path": "reference/blocks/llm/together"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/ollama#example",
+        "title": "Ollama - Phidata",
+        "local_path": "reference/blocks/llm/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/ollama#ollama-params",
+        "title": "Ollama - Phidata",
+        "local_path": "reference/blocks/llm/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/ollama#llm-params",
+        "title": "Ollama - Phidata",
+        "local_path": "reference/blocks/llm/ollama"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/fireworks#example",
+        "title": "Fireworks - Phidata",
+        "local_path": "reference/blocks/llm/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/fireworks#fireworks-params",
+        "title": "Fireworks - Phidata",
+        "local_path": "reference/blocks/llm/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/fireworks#llm-params",
+        "title": "Fireworks - Phidata",
+        "local_path": "reference/blocks/llm/fireworks"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/mistral#example",
+        "title": "Mistral - Phidata",
+        "local_path": "reference/blocks/llm/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/mistral#mistral-params",
+        "title": "Mistral - Phidata",
+        "local_path": "reference/blocks/llm/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/mistral#llm-params",
+        "title": "Mistral - Phidata",
+        "local_path": "reference/blocks/llm/mistral"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/groq#example",
+        "title": "Groq - Phidata",
+        "local_path": "reference/blocks/llm/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/groq#groq-params",
+        "title": "Groq - Phidata",
+        "local_path": "reference/blocks/llm/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/groq#llm-params",
+        "title": "Groq - Phidata",
+        "local_path": "reference/blocks/llm/groq"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/gemini#example",
+        "title": "Gemini - Phidata",
+        "local_path": "reference/blocks/llm/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/gemini#gemini-params",
+        "title": "Gemini - Phidata",
+        "local_path": "reference/blocks/llm/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/gemini#llm-params",
+        "title": "Gemini - Phidata",
+        "local_path": "reference/blocks/llm/gemini"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/azure#example",
+        "title": "Azure - Phidata",
+        "local_path": "reference/blocks/llm/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/azure#azure-params",
+        "title": "Azure - Phidata",
+        "local_path": "reference/blocks/llm/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/azure#llm-params",
+        "title": "Azure - Phidata",
+        "local_path": "reference/blocks/llm/azure"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/claude#example",
+        "title": "Claude - Phidata",
+        "local_path": "reference/blocks/llm/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/claude#claude-params",
+        "title": "Claude - Phidata",
+        "local_path": "reference/blocks/llm/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/llm/claude#llm-params",
+        "title": "Claude - Phidata",
+        "local_path": "reference/blocks/llm/claude"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/storage/assistant/postgres",
+        "title": "PostgreSQL Assistant Storage - Phidata",
+        "local_path": "reference/blocks/storage/assistant/postgres"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-case/sql",
+        "title": "Sql Assistant - Phidata",
+        "local_path": "examples/use-case/sql"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/integrations/pgvector#usage",
+        "title": "PgVector - Phidata",
+        "local_path": "examples/integrations/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/integrations/pgvector#information",
+        "title": "PgVector - Phidata",
+        "local_path": "examples/integrations/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-case/arxiv-research",
+        "title": "ArXiv Research Assistant - Phidata",
+        "local_path": "examples/use-case/arxiv-research"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/storage/assistant/sqlite",
+        "title": "Sqlite Assistant Storage - Phidata",
+        "local_path": "reference/blocks/storage/assistant/sqlite"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/storage/assistant/singlestore",
+        "title": "Single Store Assistant Storage - Phidata",
+        "local_path": "reference/blocks/storage/assistant/singlestore"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/storage/assistant/postgres#example",
+        "title": "PostgreSQL Assistant Storage - Phidata",
+        "local_path": "reference/blocks/storage/assistant/postgres"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/storage/assistant/postgres#pgassistantstorage-params",
+        "title": "PostgreSQL Assistant Storage - Phidata",
+        "local_path": "reference/blocks/storage/assistant/postgres"
+    },
+    {
+        "url": "https://docs.phidata.com/examples/use-case/worldbuilding",
+        "title": "World Building - Phidata",
+        "local_path": "examples/use-case/worldbuilding"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/storage/assistant/sqlite#sqlassistantstorage-params",
+        "title": "Sqlite Assistant Storage - Phidata",
+        "local_path": "reference/blocks/storage/assistant/sqlite"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/base",
+        "title": "AssistantKnowledge - Phidata",
+        "local_path": "reference/blocks/kb/base"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/arxiv",
+        "title": "Arxiv KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/combined",
+        "title": "Combined KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/combined"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/docx",
+        "title": "Docx KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/docx"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/json",
+        "title": "JSON KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/json"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/langchain",
+        "title": "LangChain KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/langchain"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/pdf",
+        "title": "PDF KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/pdf-url",
+        "title": "PDF Url KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/pdf-url"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/text",
+        "title": "Text KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/text"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/website",
+        "title": "Website KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/website"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/wikipedia",
+        "title": "Wikipedia KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/base#assistantknowledge-params",
+        "title": "AssistantKnowledge - Phidata",
+        "local_path": "reference/blocks/kb/base"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/arxiv#example",
+        "title": "Arxiv KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/arxiv#arxivknowledgebase-params",
+        "title": "Arxiv KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/arxiv#assistantknowledge-params",
+        "title": "Arxiv KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/arxiv"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/combined#example",
+        "title": "Combined KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/combined"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/combined#combinedknowledgebase-params",
+        "title": "Combined KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/combined"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/combined#assistantknowledge-params",
+        "title": "Combined KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/combined"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/docx#example",
+        "title": "Docx KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/docx"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/docx#docxknowledgebase-params",
+        "title": "Docx KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/docx"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/docx#assistantknowledge-params",
+        "title": "Docx KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/docx"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/json#example",
+        "title": "JSON KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/json"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/json#jsonknowledgebase-params",
+        "title": "JSON KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/json"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/json#assistantknowledge-params",
+        "title": "JSON KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/json"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/langchain#example",
+        "title": "LangChain KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/langchain"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/langchain#langchainknowledgebase-params",
+        "title": "LangChain KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/langchain"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/langchain#assistantknowledge-params",
+        "title": "LangChain KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/langchain"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/pdf#example",
+        "title": "PDF KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/pdf#pdfknowledgebase-params",
+        "title": "PDF KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/pdf#assistantknowledge-params",
+        "title": "PDF KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/pdf"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/pdf-url#example",
+        "title": "PDF Url KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/pdf-url"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/pdf-url#pdfurlknowledgebase-params",
+        "title": "PDF Url KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/pdf-url"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/pdf-url#assistantknowledge-params",
+        "title": "PDF Url KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/pdf-url"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/text#example",
+        "title": "Text KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/text"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/text#textknowledgebase-params",
+        "title": "Text KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/text"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/text#assistantknowledge-params",
+        "title": "Text KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/text"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/website#example",
+        "title": "Website KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/website"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/website#websiteknowledgebase-params",
+        "title": "Website KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/website"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/website#assistantknowledge-params",
+        "title": "Website KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/website"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/wikipedia#example",
+        "title": "Wikipedia KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/wikipedia#wikipediaknowledgebase-params",
+        "title": "Wikipedia KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/kb/wikipedia#assistantknowledge-params",
+        "title": "Wikipedia KnowledgeBase - Phidata",
+        "local_path": "reference/blocks/kb/wikipedia"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/pgvector",
+        "title": "PgVector - Phidata",
+        "local_path": "reference/blocks/vectordb/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries#why-phidata",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries#how-it-works",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries#example",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries#build-a-web-search-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries#build-a-finance-assistant",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries#demos",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries#next-steps",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/how-to/python-libraries#looking-to-build-an-ai-product",
+        "title": "What is phidata? - Phidata",
+        "local_path": "how-to/python-libraries"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/pgvector2",
+        "title": "PgVector2 - Phidata",
+        "local_path": "reference/blocks/vectordb/pgvector2"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/singlestore",
+        "title": "Single Store - Phidata",
+        "local_path": "reference/blocks/vectordb/singlestore"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/qdrant",
+        "title": "Qdrant - Phidata",
+        "local_path": "reference/blocks/vectordb/qdrant"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/lancedb",
+        "title": "LanceDb - Phidata",
+        "local_path": "reference/blocks/vectordb/lancedb"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/pgvector#pgvectordb-params",
+        "title": "PgVector - Phidata",
+        "local_path": "reference/blocks/vectordb/pgvector"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/pgvector2#pgvectordb-params",
+        "title": "PgVector2 - Phidata",
+        "local_path": "reference/blocks/vectordb/pgvector2"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/singlestore#single-store-params",
+        "title": "Single Store - Phidata",
+        "local_path": "reference/blocks/vectordb/singlestore"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/qdrant#qdrant-params",
+        "title": "Qdrant - Phidata",
+        "local_path": "reference/blocks/vectordb/qdrant"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/blocks/vectordb/lancedb#lancedb-params",
+        "title": "LanceDb - Phidata",
+        "local_path": "reference/blocks/vectordb/lancedb"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/init",
+        "title": "phi init - Phidata",
+        "local_path": "reference/cli/phi/init"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/auth",
+        "title": "phi auth - Phidata",
+        "local_path": "reference/cli/phi/auth"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/start",
+        "title": "phi start - Phidata",
+        "local_path": "reference/cli/phi/start"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/stop",
+        "title": "phi stop - Phidata",
+        "local_path": "reference/cli/phi/stop"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/patch",
+        "title": "phi patch - Phidata",
+        "local_path": "reference/cli/phi/patch"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/restart",
+        "title": "phi restart - Phidata",
+        "local_path": "reference/cli/phi/restart"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/config",
+        "title": "phi config - Phidata",
+        "local_path": "reference/cli/phi/config"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/set",
+        "title": "phi set - Phidata",
+        "local_path": "reference/cli/phi/set"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/reset",
+        "title": "phi reset - Phidata",
+        "local_path": "reference/cli/phi/reset"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/init#params",
+        "title": "phi init - Phidata",
+        "local_path": "reference/cli/phi/init"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/auth#params",
+        "title": "phi auth - Phidata",
+        "local_path": "reference/cli/phi/auth"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/start#params",
+        "title": "phi start - Phidata",
+        "local_path": "reference/cli/phi/start"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/stop#params",
+        "title": "phi stop - Phidata",
+        "local_path": "reference/cli/phi/stop"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/patch#params",
+        "title": "phi patch - Phidata",
+        "local_path": "reference/cli/phi/patch"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/restart#params",
+        "title": "phi restart - Phidata",
+        "local_path": "reference/cli/phi/restart"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/config#params",
+        "title": "phi config - Phidata",
+        "local_path": "reference/cli/phi/config"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/set#params",
+        "title": "phi set - Phidata",
+        "local_path": "reference/cli/phi/set"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/phi/reset#params",
+        "title": "phi reset - Phidata",
+        "local_path": "reference/cli/phi/reset"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/create",
+        "title": "phi ws create - Phidata",
+        "local_path": "reference/cli/ws/create"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/up",
+        "title": "phi ws up - Phidata",
+        "local_path": "reference/cli/ws/up"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/down",
+        "title": "phi ws down - Phidata",
+        "local_path": "reference/cli/ws/down"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/patch",
+        "title": "phi ws patch - Phidata",
+        "local_path": "reference/cli/ws/patch"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/restart",
+        "title": "phi ws restart - Phidata",
+        "local_path": "reference/cli/ws/restart"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/config",
+        "title": "phi ws config - Phidata",
+        "local_path": "reference/cli/ws/config"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/delete",
+        "title": "phi ws delete - Phidata",
+        "local_path": "reference/cli/ws/delete"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/setup",
+        "title": "phi ws setup - Phidata",
+        "local_path": "reference/cli/ws/setup"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/create#params",
+        "title": "phi ws create - Phidata",
+        "local_path": "reference/cli/ws/create"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/up#params",
+        "title": "phi ws up - Phidata",
+        "local_path": "reference/cli/ws/up"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/down#params",
+        "title": "phi ws down - Phidata",
+        "local_path": "reference/cli/ws/down"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/patch#params",
+        "title": "phi ws patch - Phidata",
+        "local_path": "reference/cli/ws/patch"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/restart#params",
+        "title": "phi ws restart - Phidata",
+        "local_path": "reference/cli/ws/restart"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/config#params",
+        "title": "phi ws config - Phidata",
+        "local_path": "reference/cli/ws/config"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/delete#params",
+        "title": "phi ws delete - Phidata",
+        "local_path": "reference/cli/ws/delete"
+    },
+    {
+        "url": "https://docs.phidata.com/reference/cli/ws/setup#params",
+        "title": "phi ws setup - Phidata",
+        "local_path": "reference/cli/ws/setup"
+    }
+]
