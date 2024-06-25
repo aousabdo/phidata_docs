@@ -1,49 +1,93 @@
 import streamlit as st
 import os
 import json
+import requests
 from bs4 import BeautifulSoup
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import Chroma
 from langchain.chains import RetrievalQA
+from dotenv import load_dotenv
+
+# Load environment variables from .env file (for local development)
+load_dotenv()
+
+# Configuration
+USE_GITHUB = os.environ.get('USE_GITHUB', 'false').lower() == 'true'
+GITHUB_REPO_OWNER = os.environ.get('GITHUB_REPO_OWNER', 'your-github-username')
+GITHUB_REPO_NAME = os.environ.get('GITHUB_REPO_NAME', 'phidata-docs-repo')
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 
 # Function to extract text from HTML
 def extract_text_from_html(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     return soup.get_text(separator='\n', strip=True)
 
+# Function to download file from GitHub
+def download_file_from_github(repo_owner, repo_name, file_path, branch='main'):
+    url = f"https://raw.githubusercontent.com/{repo_owner}/{repo_name}/{branch}/{file_path}"
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.text
+    else:
+        return None
+
 # Function to load and process documents
 @st.cache_resource
 def load_qa_system():
-    try:
-        with open('phidata_docs_index.json', 'r') as f:
-            index = json.load(f)
-    except FileNotFoundError:
-        st.error("Error: phidata_docs_index.json not found. Make sure you're in the correct directory.")
-        return None, 0, 0
+    if USE_GITHUB:
+        try:
+            index_content = download_file_from_github(GITHUB_REPO_OWNER, GITHUB_REPO_NAME, 'phidata_docs_index.json')
+            if index_content is None:
+                st.error("Error: Could not download phidata_docs_index.json from GitHub.")
+                return None, 0, 0
+            index = json.loads(index_content)
+        except Exception as e:
+            st.error(f"Error loading index file from GitHub: {str(e)}")
+            return None, 0, 0
+    else:
+        try:
+            with open('phidata_docs_index.json', 'r') as f:
+                index = json.load(f)
+        except FileNotFoundError:
+            st.error("Error: phidata_docs_index.json not found locally. Make sure you're in the correct directory.")
+            return None, 0, 0
 
     documents = []
     missing_files = []
     for page in index:
-        file_path = os.path.join('phidata_docs', page['local_path'])
-        if os.path.isdir(file_path):
-            file_path = os.path.join(file_path, 'index.html')
-        if os.path.exists(file_path):
-            with open(file_path, 'r', encoding='utf-8') as f:
-                html_content = f.read()
-            text_content = extract_text_from_html(html_content)
-            documents.append({"content": text_content, "metadata": {"source": page['url']}})
+        if USE_GITHUB:
+            file_content = download_file_from_github(GITHUB_REPO_OWNER, GITHUB_REPO_NAME, f"phidata_docs/{page['local_path']}")
+            if file_content:
+                text_content = extract_text_from_html(file_content)
+                documents.append({"content": text_content, "metadata": {"source": page['url']}})
+            else:
+                missing_files.append(page['local_path'])
         else:
-            missing_files.append(file_path)
+            file_path = os.path.join('phidata_docs', page['local_path'])
+            if os.path.isdir(file_path):
+                file_path = os.path.join(file_path, 'index.html')
+            if os.path.exists(file_path):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    html_content = f.read()
+                text_content = extract_text_from_html(html_content)
+                documents.append({"content": text_content, "metadata": {"source": page['url']}})
+            else:
+                missing_files.append(file_path)
 
     if not documents:
-        st.error("Error: No documents were successfully loaded. Please check your phidata_docs folder.")
+        st.error("Error: No documents were successfully loaded.")
         return None, 0, len(missing_files)
 
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     texts = text_splitter.create_documents([doc['content'] for doc in documents], metadatas=[doc['metadata'] for doc in documents])
 
-    embeddings = OpenAIEmbeddings()
+    # Ensure the API key is passed correctly
+    if not OPENAI_API_KEY:
+        st.error("OPENAI_API_KEY environment variable is not set")
+        return None, 0, 0
+
+    embeddings = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
     vectordb = Chroma.from_documents(
         documents=texts, 
         embedding=embeddings,
