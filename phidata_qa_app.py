@@ -15,8 +15,14 @@ load_dotenv()
 # Configuration
 USE_GITHUB = os.environ.get('USE_GITHUB', 'false').lower() == 'true'
 GITHUB_REPO_OWNER = os.environ.get('GITHUB_REPO_OWNER', 'your-github-username')
-GITHUB_REPO_NAME = os.environ.get('GITHUB_REPO_NAME', 'phidata-docs-repo')
+GITHUB_REPO_NAME = os.environ.get('GITHUB_REPO_NAME', 'phidata_docs')
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+
+# Debugging: Print environment variables
+st.write(f"USE_GITHUB: {USE_GITHUB}")
+st.write(f"GITHUB_REPO_OWNER: {GITHUB_REPO_OWNER}")
+st.write(f"GITHUB_REPO_NAME: {GITHUB_REPO_NAME}")
+st.write(f"OPENAI_API_KEY: {OPENAI_API_KEY}")
 
 # Function to extract text from HTML
 def extract_text_from_html(html_content):
